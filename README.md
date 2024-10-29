@@ -7,7 +7,7 @@
 -selenium, -requests, -pytest, -allure
 
 Шаги:
-Создать удаленный репозиторий в github ()
+Создать удаленный репозиторий в github (https://github.com/al1974ex/skypro_diplom)
 Установить зависимости
 запустить тесты с указанием пути к директории результатов тестирования pytest --alluredir allure-result
 Сформировать отчет --allure serve allure-result
